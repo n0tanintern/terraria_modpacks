@@ -1,0 +1,6 @@
+{
+  "recursionLimit": 999,
+  "wallBlacklist": [],
+  "chainPlanting": false,
+  "chainPainting": false
+}
